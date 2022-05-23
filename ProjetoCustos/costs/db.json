@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "name": "viagem",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "produção",
+      "budget": "120000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 11
+    },
+    {
+      "name": "limpeza",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "aquisição de produtos",
+          "cost": "200",
+          "description": "aspirador de pó",
+          "id": "2a173f40-250c-4ac6-9e55-db79b049fe3e"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "climatização",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "instalação ar condicionado",
+          "cost": "5000",
+          "id": "8f3eb64c-f561-4ad1-be48-762612a64d9a"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "contratar PO",
+      "budget": "50000",
+      "category": {
+        "id": "4",
+        "name": "projetos"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 15
+    },
+    {
+      "name": "novo prédio",
+      "budget": "50000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 10,
+      "services": [
+        {
+          "name": "empreiteiro",
+          "cost": "10",
+          "description": "nada",
+          "id": "ea174455-4e81-4f04-8a98-65a91b69ed38"
+        }
+      ],
+      "id": 16
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "design"
+    },
+    {
+      "id": 4,
+      "name": "projetos"
+    }
+  ]
+}
